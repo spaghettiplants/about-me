@@ -1,3 +1,5 @@
+Hey! Thanks for visiting my Github! Read more about me below!
+
 - 👋 Hi, I’m @spaghettiplants
 - 👀 I’m interested in cats, food, traveling, math education, and data science for good!
 - 🌱 I’m currently learning about unsupervised learning!
